@@ -136,7 +136,10 @@
     <ClInclude Include="settings.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Klo.txt" />
+  <Text Include="Klo.txt" />
+    </ItemGroup>
+  <ItemGroup>
+    <Text Include="dmit.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
